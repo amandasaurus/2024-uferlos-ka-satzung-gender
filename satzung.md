@@ -305,12 +305,12 @@ ordentliches Mitglied kann keiner, einer oder mehreren Abteilungen angehören. D
 Abteilungen bestimmt der Beirat oder die Mitgliederversammlung. Eine Abteilung kann nur gegründet 
 werden, wenn mindestens 6 Mitglieder die gleiche Sportart aktiv betreiben. 
 
-(2) Mindestens einmal jährlich sollen Versammlungen der Abteilungen stattfinden, bei denen die 
-Abteilungsleiter, bis zu zwei Stellvertreter und eventuell weiteren Mitglieder der Abteilung sowie die 
-notwendigen Beisitzer (§ 15 (1)) der Abteilungen gewählt werden. 
+(2) Mindestens einmal jährlich sollen Versammlungen der Abteilungen stattfinden, bei denen die
+Abteilungsleiter*innen, bis zu zwei Stellvertreter*innen und eventuell weiteren Mitglieder der Abteilung sowie die
+notwendigen Beisitzer*innen (§ 15 (1)) der Abteilungen gewählt werden.
 
-(3) Wenn weniger als 6 Mitglieder eine Sportart betreiben, bilden sie eine Sportgruppe und können einen 
-Gruppenleiter wählen. 
+(3) Wenn weniger als 6 Mitglieder eine Sportart betreiben, bilden sie eine Sportgruppe und können eine*n
+Gruppenleiter*in wählen.
 
 (4) Für die Abteilungen gelten zusätzlich zu dieser Satzung, die jeweiligen Ordnungen. Jede Abteilung 
 kann sich eine eigene Abteilungsordnung geben. Diese ist von der Abteilungsversammlung zu 
@@ -321,16 +321,16 @@ Mitgliederversammlung entsprechend.
 
 -Wahlen gelten die Vorschriften über die 
 
-(6) Die Abteilungsleitung besteht aus dem Abteilungsleiter und bis zu zwei Stellvertretern, eventuell bis 
-zu drei weiteren Mitgliedern sowie den zu wählenden Beisitzern nach § 15. 
+(6) Die Abteilungsleitung besteht aus dem*der Abteilungsleiter*in und bis zu zwei Stellvertreter*innen, eventuell bis
+zu drei weiteren Mitgliedern sowie den zu wählenden Beisitzern nach § 15.
 
-(7) Der gewählte Abteilungsleiter ist besonderer Vertreter gemäß § 30 BGB. 
+(7) Der*Die gewählte Abteilungsleiter*in ist besonderer Vertreter gemäß § 30 BGB.
 
 (8) Die Mitglieder der Abteilungsleitung regeln die Angelegenheiten der Abteilung. Die Abteilungsleitung 
 ist gegenüber den Organen des Vereins verantwortlich. 
 
-(9) Die Abteilungsleiter und die Beisitzer werden zu den Beiratssitzungen des Vereins eingeladen. Die 
-Abteilungsleiter und die Beisitzer sowie gegebenenfalls die Vertreter haben dort eigenes Stimmrecht. 
+(9) Der*Die Abteilungsleiter*in und der*die Beisitzer*in werden zu den Beiratssitzungen des Vereins eingeladen. Der*Die
+Abteilungsleiter*in und der*die Beisitzer*in sowie gegebenenfalls die Vertreter*innen haben dort eigenes Stimmrecht.
 
 (10) Die Abteilungen können kein eigenes Vermögen erwerben. Die Abteilungen können jedoch eine 
 Barkasse führen, die Bestandteil der Vereinsbarkasse ist. 
@@ -345,19 +345,19 @@ Vorstand nach Anhörung der Abteilungsmitglieder.
 
 § 15 Beirat 
 
-(1) Der Beirat besteht aus den Mitgliedern des Vorstandes, den Abteilungsleitern, Beisitzern und 
-Ehrenvorsitzenden. Die Anzahl der weiteren Beisitzer ergibt sich aus der Anzahl der Abteilungsmitglieder 
-wie folgt: bei mehr als 25 Mitgliedern = 1 Beisitzer bei mehr als 50 Mitgliedern = 2 Beisitzer bei mehr als 
-75 Mitgliedern = 3 Beisitzer bei mehr als 100 Mitgliedern = 4 Beisitzer 
+(1) Der Beirat besteht aus den Mitgliedern des Vorstandes, den Abteilungsleiter*innen, Beisitzer*innen und
+Ehrenvorsitzer*innen. Die Anzahl der weiteren Beisitzer ergibt sich aus der Anzahl der Abteilungsmitglieder
+wie folgt: bei mehr als 25 Mitgliedern = 1 Beisitzer*in bei mehr als 50 Mitgliedern = 2 Beisitzer*innen bei mehr als
+75 Mitgliedern = 3 Beisitzer*innen bei mehr als 100 Mitgliedern = 4 Beisitzer*innen
 
-(2) Der Abteilungsleiter kann sich von seinem Stellvertreter, die Beisitzer von einem anderen Mitglied der 
-Abteilungsleitung bei der Beiratssitzung vertreten lassen. 
+(2) Der*Die Abteilungsleiter*innen kann sich von seinem*seiner*ihrem*ihrer Stellvertreter*in, der*die Beisitzer*in von einem anderen Mitglied der
+Abteilungsleitung bei der Beiratssitzung vertreten lassen.
 
-(3) Der Beirat ist beschlussfähig, wenn mindestens 7 Mitglieder, darunter 3 Mitglieder des Vorstandes, 
-anwesend sind. Beschlüsse werden mit Stimmenmehrheit gefasst; bei Stimmengleichheit entscheidet die 
-Stimme des Vorsitzenden, bei dessen Abwesenheit die des Versammlungsleiters. 
+(3) Der Beirat ist beschlussfähig, wenn mindestens 7 Mitglieder, darunter 3 Mitglieder des Vorstandes,
+anwesend sind. Beschlüsse werden mit Stimmenmehrheit gefasst; bei Stimmengleichheit entscheidet die
+Stimme des*der Vorsitzer*in, bei dessen Abwesenheit die des Versammlungsleiters.
 
-(4) Gruppenleiter sind zu den Beiratssitzungen einzuladen, haben jedoch kein Stimmrecht. 
+(4) Gruppenleiter*innen sind zu den Beiratssitzungen einzuladen, haben jedoch kein Stimmrecht.
 
 (5) Der Beirat ist mindestens einmal im Jahr einzuberufen. 
 
@@ -388,15 +388,15 @@ i) Zur Unterstützung der Vorstandsarbeit können Ausschüsse gebildet werden so
 Geschäftsstelle mit entsprechendem Personal- und Sachausstattung eingerichtet werden. Bei 
 Bedarf sind entsprechende Räume hierzu anzumieten.
 
-(1) Der Vorstand des Vereins im Sinn von § 26 BGB besteht aus
-
 § 17 Vorstand
 
-a) der/dem 1.Vorsitzenden,
+(1) Der Vorstand des Vereins im Sinn von § 26 BGB besteht aus
 
-b) bis zu drei stellvertretenden Vorsitzenden, 
+a) dem*der 1.Vorsitzer*in.
 
-c) dem/der Schatzmeister/in,
+b) bis zu drei stellvertretenden Vorsitzer*innen,
+
+c) dem*der Schatzmeister*in,
 
 d) bis zu zwei weiteren Vorstandsmitgliedern.
 
@@ -534,9 +534,9 @@ anwesenden stimmberechtigten Mitglieder geheime Wahl beantragt.
 
 § 24 Protokollierung 
 
-(1) Über die Beschlüsse der Mitgliederversammlung, Beirats-, Abteilungs- u. sonstiger Ausschüsse ist ein 
-Protokoll anzufertigen, das vom Protokollführer und dem jeweiligen Leiter zu unterzeichnen ist. 
-Satzungsänderungen sind im Wortlaut festzuhalten. 
+(1) Über die Beschlüsse der Mitgliederversammlung, Beirats-, Abteilungs- u. sonstiger Ausschüsse ist ein
+Protokoll anzufertigen, das vom*von der Protokollführer*in und dem*der jeweiligen Leiter*in zu unterzeichnen ist.
+Satzungsänderungen sind im Wortlaut festzuhalten.
 
 (2) Protokolle der Abteilungen und der Ausschüsse sind dem Vorstand zuzuleiten. Protokolle der 
 Mitgliederversammlung, der Vorstandssitzungen und der Beiratssitzungen sind dem Beirat zuzustellen. 
